@@ -1,7 +1,28 @@
 # Sound-Classification
 
+<a href="https://ibb.co/wdj1v2H"><img src="https://i.ibb.co/fXL7cTR/3-D-spectrogram.png" alt="3-D-spectrogram" border="0"></a>
+
+
+
+
+
+
+![image](3Dspectrogram.png)
+
+
+
+
+
+
+
 # Часть 1
 **Загрузка файлов. Составные части звука с последующим извлечением признаков.**
+
+---
+
+Для начала советую вам перейти по [ссылке](https://www.kaggle.com/datasets/mmoreaux/environmental-sound-classification-50) и скачать файлы ваших данных.
+
+---
 
 Аудиоклип имеет одно временное измерение (с возможным вторым измерением для каналов, например, моно или стерео). В нашем случае мы будет работать над аудиофайлом одного канала.
 С помощью библиотеки *matplotlib & librosa* мы можем визуализировать наш wav-samples, посмотреть на его информативность и выполнить *pre-proccesing*.
