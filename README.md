@@ -2,19 +2,6 @@
 
 <a href="https://ibb.co/wdj1v2H"><img src="https://i.ibb.co/fXL7cTR/3-D-spectrogram.png" alt="3-D-spectrogram" border="0"></a>
 
-
-
-
-
-
-![image](3Dspectrogram.png)
-
-
-
-
-
-
-
 # Часть 1
 **Загрузка файлов. Составные части звука с последующим извлечением признаков.**
 
